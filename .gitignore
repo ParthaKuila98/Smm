@@ -1,0 +1,17 @@
+# .gitignore
+
+# SQLite database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables file (if you use one locally)
+.env
+
+# Log files
+*.log
