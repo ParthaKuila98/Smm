@@ -1,0 +1,4 @@
+# requirements.txt
+
+python-telegram-bot[ext]>=20.7
+requests>=2.31.0
